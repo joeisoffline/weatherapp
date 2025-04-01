@@ -1,1 +1,1 @@
-# weatherapp
+building a weather app to pull weather from different cities
