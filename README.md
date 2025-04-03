@@ -1,1 +1,1 @@
-building a weather app to pull weather from different cities
+weather app built with html, css and javascript. used an api key from openmaps.org to pull cities. data display is temp, humidity and wind speed.
